@@ -1,0 +1,23 @@
+body {
+    background-color: darksalmon;
+    font-family: 'Brush Script MT', cursive;
+    font-size: 18px;
+}
+
+.inicio {
+    width: 600px;
+  background: #effaf9;
+  margin: 16px auto;
+  padding-left: 16px;
+  text-align: center;
+}
+
+
+.comida {
+    width: 333px;
+  background: #fce8e8;
+  margin: 16px auto;
+  
+  padding: 8px;
+  padding-left: 33px;
+}
